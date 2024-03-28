@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N7vLHrOeSfo9S0HpRlXF2aKlHXC3j7xRvKyI+iXrcNk=",
+  "Source": "DotnetGenerator",
+  "BasePath": "_content/DotnetGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
